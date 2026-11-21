@@ -1,8 +1,9 @@
 import os
 
 JOKE = (
-    "My AI coding agent passed every test in the live demo \u2014 it should, "
-    "it wrote the code, wrote the tests, and graded its own homework on stage."
+    "My AI coding agent passed every test in the live demo \u2014 it should: "
+    "it wrote the code, wrote the tests, and marked its own homework "
+    "\u2018production-ready.\u2019"
 )
 
 
